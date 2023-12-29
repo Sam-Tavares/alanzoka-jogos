@@ -1,1 +1,1 @@
-# Projeto base para o curso
+# Projeto de manipulação de DOM utilizando CSS e JavaScript
